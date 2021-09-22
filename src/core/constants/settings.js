@@ -1,0 +1,1 @@
+export const jsCreationDate = new Date(1995, 0,1)

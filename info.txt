@@ -1,0 +1,6 @@
+export este cand :
+- export class Car
+- sau scriem clasul si la urma export {Car}. Cand import {Car}
+- daca vrem sa schimbam numele scriem {BMW as Car} in import
+
+- export default poate sa fie doar unul in file
